@@ -1,1 +1,1 @@
-# -gif-gallery.
+# gif-stars
